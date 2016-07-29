@@ -1,0 +1,1 @@
+Using normal jOOQ, these files would be automatically generated. However, I feel that it's easy enough to assemble these by hand

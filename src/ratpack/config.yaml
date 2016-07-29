@@ -1,0 +1,7 @@
+db:
+  url: "jdbc:postgresql://localhost/jooq-demo"
+  username: "admin" # dummy credentials. change to what you're using locally
+
+logging:
+  level:
+    org.jooq: DEBUG
